@@ -1,0 +1,14 @@
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\bin\Debug\net8.0\SalaryApp.exe
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\bin\Debug\net8.0\SalaryApp.deps.json
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\bin\Debug\net8.0\SalaryApp.runtimeconfig.json
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\bin\Debug\net8.0\SalaryApp.dll
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\bin\Debug\net8.0\SalaryApp.pdb
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.AssemblyInfoInputs.cache
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.AssemblyInfo.cs
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.csproj.CoreCompileInputs.cache
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.dll
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\refint\SalaryApp.dll
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.pdb
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\SalaryApp.genruntimeconfig.cache
+D:\Courses\C# Mystery\Problem 6\SalaryApp\SalaryApp\obj\Debug\net8.0\ref\SalaryApp.dll
